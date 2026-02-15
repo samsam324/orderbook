@@ -1,4 +1,4 @@
-# Orderbook (Nasdaq ITCH L3) — skeleton monorepo
+# Orderbook (Nasdaq ITCH L3)
 
 Backend (Ubuntu / WSL2):
 
